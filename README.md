@@ -1,4 +1,6 @@
-### Hi there 👋
+# Andrei Popov's GitHub Profile
+
+<a href="https://www.learnenough.com/certificates/fe7d97ec"><img src="https://www.learnenough.com/certificates/fe7d97ec/command-line-tutorial.svg" alt="Certificate of Completion for Learn Enough Command Line"></a>
 
 <!--
 **popov-andrey/popov-andrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
